@@ -1,0 +1,25 @@
+@media (max-width:1130px) {
+    .foot-wrap {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width:993px) {
+    nav ul {
+        flex-direction: column;
+    }
+}
+@media (max-width:814px) {
+    .hotel {
+        flex-direction: column;
+        align-items: center;
+    }
+    .img-wrap {
+        flex-direction: column;
+    }
+}
+@media (max-width:599px) {
+    .section3 {
+        flex-direction: column;
+    }
+}
